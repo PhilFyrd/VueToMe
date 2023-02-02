@@ -1,2 +1,2 @@
 # VueToMe
-Project of a react web app based on soft skills
+Project of a Vue web app to show your soft skills
